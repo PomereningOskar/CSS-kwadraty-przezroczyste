@@ -1,0 +1,26 @@
+.kwadrat1 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.8)
+}
+
+.kwadrat2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.6)
+}
+
+.kwadrat3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+.kwadrat4 {
+    height: 200px;
+    width: 200px;
+    background-color:rgba(0, 0, 0, 0.2)
+}
+body {
+    background-color:#f5f5dd;
+}
